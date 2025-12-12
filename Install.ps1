@@ -41,5 +41,5 @@ Import-Module $moduleName -Force
 
 Write-Host "`nInstallation complete!" -ForegroundColor Green
 Write-Host "`nUsage:" -ForegroundColor Cyan
-Write-Host "  Fuck-Microsoft vlc    # Set VLC as default media player" -ForegroundColor White
+Write-Host "  Screw-Microsoft vlc    # Set VLC as default media player" -ForegroundColor White
 Write-Host "`nNote: Run PowerShell as Administrator when using this command." -ForegroundColor Yellow

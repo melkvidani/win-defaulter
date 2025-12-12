@@ -6,7 +6,7 @@ After installation, simply run:
 
 ```powershell
 # Open PowerShell as Administrator (required!)
-Fuck-Microsoft vlc
+Screw-Microsoft vlc
 ```
 
 ## Step-by-Step Guide
@@ -23,7 +23,7 @@ If VLC is not found, you'll see an error message with a download link.
 
 ```powershell
 # Make sure you're running PowerShell as Administrator
-Fuck-Microsoft vlc
+Screw-Microsoft vlc
 ```
 
 ### 3. What Happens
@@ -99,7 +99,7 @@ Get-Command -Module Set-DefaultApp
 ### Get Help
 
 ```powershell
-Get-Help Fuck-Microsoft -Full
+Get-Help Screw-Microsoft -Full
 ```
 
 ## Reverting Changes

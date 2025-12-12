@@ -1,4 +1,4 @@
-function Fuck-Microsoft {
+function Screw-Microsoft {
     <#
     .SYNOPSIS
         Sets default applications for common file types.
@@ -11,7 +11,7 @@ function Fuck-Microsoft {
         The application to set as default. Currently supported: 'vlc'
 
     .EXAMPLE
-        Fuck-Microsoft vlc
+        Screw-Microsoft vlc
         Sets VLC as the default media player for common video and audio formats.
 
     .NOTES
@@ -124,4 +124,4 @@ function Set-VLCAsDefault {
 }
 
 # Export the main function
-Export-ModuleMember -Function Fuck-Microsoft
+Export-ModuleMember -Function Screw-Microsoft

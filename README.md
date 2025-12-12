@@ -38,7 +38,7 @@ Import-Module Set-DefaultApp
 ### Set VLC as Default Media Player
 
 ```powershell
-Fuck-Microsoft vlc
+Screw-Microsoft vlc
 ```
 
 This will set VLC as the default application for:
@@ -86,5 +86,5 @@ A: Yes. The script only modifies file associations using standard Windows APIs. 
 **Q: Will this break my existing associations?**
 A: It will override your current default apps for the file types it manages. You can always change them back through Windows Settings.
 
-**Q: Why "Fuck-Microsoft"?**
+**Q: Why "Screw-Microsoft"?**
 A: Because navigating Windows Settings to change default apps is unnecessarily painful, and sometimes you just need to express your feelings.
